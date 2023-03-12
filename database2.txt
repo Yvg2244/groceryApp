@@ -1,0 +1,383 @@
+Category	Name	Weight	Unit	MRP	SP
+Sugar	Avanti Sugar Cubes 	126	Cubes	65	57
+Sugar	Madhur Pure & Hygienic Sugar (M) 	5	kgs	295	228
+Sugar	Mawana Brown Sugar Sachet 	1	kg	200	140
+Sugar	Mawana White Sugar Sachet 	1	kg	160	95
+Sugar	Premia Sugar Candy 	200	gm	26	21
+sugar	Mawana Brown Sugar 	1	kg	130	104
+sugar	Mawana Caster Sugar 	1	kg	130	70
+sugar	Mawana Icing Sugar 	1	kg	140	80
+sugar	Organic Tattva Brown Sugar 	500	gm	75	52
+sugar	Organic Tattva Sugar 	1	kg	140	93
+sugar	Organic Tattva Suji 	500	gm	55	36
+sugar	Paawak Jaggery Cubes Jar 	500	gm	100	65
+sugar	Pitambari Ruchiyana Jaggery Powder  Chemical Free 	500	gm	75	37
+sugar	24 Mantra Organic Sonamasuri Brown Rice 	1	kg	95	88
+					
+Spices	Premia Chilli Kashmiri 	100	gm	97	79
+Spices	Premia Kashmiri Chilli Powder 	1	kg	459	371
+Spices	Premia Red Chilli Powder 	200	gm	44	40
+Spices	Premia Reshampatti Chilli Khandela 	500	gm	150	130
+Spices	Ramdev Chilli Powder 	200	gm	110	94
+Spices	Badshah Black Pepper Powder 	50	gm	80	40
+Spices	Badshah Chat Masala 	100	gm	67	47
+Spices	Badshah Chicken Masala 	100	gm	76	56
+Spices	Badshah Hing Compounded 	50	gm	95	47
+Spices	Badshah Kitchen King Masala 	100	gm	70	53
+Spices	Badshah Rajwadi Garam Masala 	100	gm	81	60
+Spices	Bedekar Goda Masala 	100	gm	60	45
+Spices	Bedekar Ready Mix Pickle Masala 	100	gm	70	55
+Spices	Everest Chaat Masala 	100	gm	69	58
+Spices	Everest Chhole Masala 	100	gm	67	60
+Spices	Everest Chicken Masala 	50	gm	41	36
+Spices	Everest Coriander Powder 	200	gm	66	54
+Spices	Everest Garam Masala 	100	gm	84	68
+Spices	Everest Kesari Milk Masala 	50	gm	205	184
+Spices	Everest Kitchen King Masala 	100	gm	74	63
+Spices	Everest Meat Masala 	100	gm	74	62
+Spices	Everest Pani Puri Masala 	50	gm	33	29
+Spices	Everest Pav Bhaji Masala 	100	gm	74	62
+Spices	Everest Sabji Masala 	50	gm	32	26
+Spices	Everest Sambhar Masala 	50	gm	36	30
+Spices	Everest Shahi Biryani Masala 	50	gm	70	58
+Spices	Everest Tandoori Chicken Masala 	100	gm	78	68
+Spices	Everest Tea Masala 	100	gm	102	88
+Spices	Everest Turmeric Powder 	200	gm	64	54
+Spices	Everest Yellow Hing Powder 	100	gm	170	150
+Spices	Goldiee Chat Masala 	100	gm	62	31
+Spices	Goldiee Chhole Masala 	100	gm	72	36
+Spices	Goldiee Chicken Masala 	100	gm	62	31
+Spices	Goldiee Garam Masala 	100	gm	76	38
+Spices	Goldiee Kashmiri Mirch Powder 	100	gm	86	43
+Spices	Goldiee Kitchen King Masala 	100	gm	70	35
+Spices	Goldiee Meat Masala Special 	100	gm	78	39
+Spices	Goldiee Pavbhaji Masala 	100	gm	64	32
+Spices	Goldiee Sabji Masala 	100	gm	56	28
+Spices	Hommade Ginger Garlic Paste 	200	gm	50	30
+Spices	Hommade Tomato Puree 	200	gm	25	22
+Spices	Jalaram Brand Black Pepper Powder 	50	gm	85	57
+Spices	Jalaram Brand Cardamom Powder 	20	gm	110	74
+Spices	Jalaram Brand Cinnamon Powder 	50	gm	75	50
+Spices	Jalaram Brand Kashmiri Milk Masala 	20	gm	94	65
+Spices	Jalaram Brand Nutmeg (Jaifal) Powder 	10	gm	35	24
+Spices	Jalaram Brand Tea Masala with Saffron 	20	gm	60	42
+Spices	Jalaram Kesar (Saffron) 	1	gm	280	199
+Spices	Kapol Tea Masala 	100	gm	180	155
+Spices	Kapol Usal   Misal Masala 	500	gm	55	45
+Spices	Kubal Coriander Powder 	500	gm	165	82
+Spices	Kubal Ready Mix Pickle Masala 	100	gm	60	30
+Spices	Kubal SP Sunday Malvani Masala 	1	kg	740	370
+Spices	Kubal Sunday Malvani Masala 	200	gm	150	75
+Spices	Kubal Turmeric Powder 	500	gm	150	75
+Spices	Kulith (Horse Gram) 	500	gm	52	43
+Spices	Lapsi Rava / Daliya 	500	gm	30	24
+Spices	LG Hing 	200	gm	304	245
+Spices	Maggi Magic Cubes 	40	gm	35	32
+Spices	Maggi Masala A  Magic 	72	gm	60	52
+Spices	Masala Elaichi 	50	gm	102	78
+Spices	Matki 	500	gm	75	60
+Spices	Matki Small 	500	gm	101	84
+Spices	MDH Chana Masala 	100	gm	78	58
+Spices	MDH Chicken Masala 	100	gm	80	64
+Spices	MDH Chunky Chat Masala 	100	gm	78	65
+Spices	MDH Deggi Mirch 	100	gm	89	70
+Spices	MDH Garam Masala 	100	gm	92	73
+Spices	MDH Kitchen King Masala 	100	gm	79	65
+Spices	MDH Pav Bhaji Masala 	100	gm	81	65
+Spices	MDH Peacock Kasoori Methi 	25	gm	25	22
+Spices	Mother’s Recipe Ginger Garlic Paste 	200	gm	50	25
+Spices	Mother’s Recipe Kadhai Paneer Masala Mix 	75	gm	55	27
+Spices	Mother’s Recipe Paneer Butter Masala Mix 	75	gm	55	27
+Spices	Mother’s Recipe Rozaana Ginger & Garlic Paste 	700	gm	219	109
+Spices	MTR Idli/Dosa/Chilly Chutney Powder 	200	gm	125	115
+Spices	MTR Sambar Powder 	200	gm	125	109
+Spices	Nachni 	1	kg	48	40
+Spices	Nutrivalue Moringa Oleifera Drum Stick Leaves Powder 	100	gm	170	123
+Spices	Premia Black Pepper Powder 	100	gm	112	85
+Spices	Premia Extra Strong Hing Powder 	100	gm	160	89
+Spices	Premia Pickle Masala 	200	gm	122	50
+Spices	Premia Yellow Hing Powder 	100	gm	90	49
+Spices	Ramdev Coriander Powder 	200	gm	75	61
+Spices	Ramdev Turmeric Powder 	200	gm	70	60
+Spices	Rasoi Magic No Onion No Garlic Veg Kolhapuri Spice Mix 	45	gm	53	39
+Spices	Rasoi Magic Paneer Tikka Masala Spice Mix 	45	gm	45	35
+Spices	Suhana Butter Chicken Mix 	50	gm	40	29
+Spices	Tata Sampann Turmeric Powder 	200	gm	72	61
+Spices	Vandevi Hing 2001 Powder 	100	gm	180	110
+Spices	Vandevi Hing 2001 Powder 	50	gm	90	60
+Spices	Vandevi Hing Powder 	100	gm	152	76
+					
+					
+dry fruit	Kokan Gem Goa Cashew Premium (Kaju) 	500	gm	750	559
+dry fruit	Kokan Gem Goa Cashews Tukda 	500	gm	550	459
+dry fruit	Kokan Gem Kulith Pith 	200	gm	60	40
+dry fruit	Mahafruit Premium Quality Kishmish (Raisins) 	500	gm	215	149
+dry fruit	Makhana 	200	gm	209	182
+dry fruit	Makhana (Foxnuts) 	100	gm	103	86
+dry fruit	Mamra (Puffed Rice) 	500	gm	60	38
+dry fruit	Morya Phool Makhana (Fox Nuts) 	100	gm	130	99
+dry fruit	Nutraj Almond 	200	gm	399	165
+dry fruit	Nutraj Broken Cashew 	400	gm	499	379
+dry fruit	Nutraj California Almonds (Badam) 	500	gm	899	389
+dry fruit	Nutraj California Walnut Kernels (Akrod Magaj) 	200	gm	499	285
+dry fruit	Nutraj California Whole Walnut (Akrod) 	1	kg	999	579
+dry fruit	Nutraj Cashews 	500	gm	699	378
+dry fruit	Nutraj Dry Dates (Chuara  Khareek) 	500	gm	249	149
+dry fruit	Nutraj Iranian Pistachios (Pista) 	200	gm	449	229
+dry fruit	Nutraj Mix Dry Fruits 	450	gm	399	249
+dry fruit	Nutraj Plain Pistachio Kernel 	100	gm	299	199
+dry fruit	Nutraj Premium California Pistachios (Pista) 	200	gm	379	229
+dry fruit	Nutraj Raisins  Kishmish 	500	gm	299	175
+dry fruit	Nutraj Roasted & Salted Pista 	100	gm	199	125
+dry fruit	Organic Tattva Groundnuts (Peanuts) 	500	gm	145	95
+dry fruit	Premia Akrod Magaj (Walnut Kernels) 	100	gm	220	172
+dry fruit	Premia Black Pepper 	100	gm	113	93
+dry fruit	Premia Dry Apricot 	200	gm	310	185
+dry fruit	Premia Dry Coconut 	500	gm	217	178
+dry fruit	Premia Grated Dry Coconut 	200	gm	72	60
+dry fruit	Premia Kismis Black (Raisins) 	200	gm	113	85
+dry fruit	Premia Kismis Black Seedless 	100	gm	47	34
+dry fruit	Premia Mixed Dry Fruits 	500	gm	309	240
+dry fruit	Royal Delight Finest Ajwa Dates 	250	gm	549	390
+dry fruit	Satyam Miri (Black Pepper) 	100	gm	160	114
+dry fruit	Udid (Urad) Black Whole 	500	gm	71	59
+					
+					
+					
+					
+pulses	Badshah Chana Masala 	100	gm	66	53
+pulses	Badshah Punjabi Chhole Masala 	100	gm	66	46
+pulses	Chana Big 	500	gm	59	49
+pulses	Chana Dal 	1	kg	93	78
+pulses	Chana Green 	500	gm	135	113
+pulses	Chana Small 	500	gm	47	39
+pulses	Dal 		Mix	 500gm	47
+pulses	Daliya 	500	gm	68	55
+pulses	Desi Kabuli Chana 	1	kg	184	145
+pulses	DMart Healthy Choice Unpolished Moong Dal 	1	kg	167	134
+pulses	DMart Healthy Choice Unpolished Toor Dal 	1	kg	172	144
+pulses	Masoor Dal 	1	kg	129	106
+pulses	Masoor Whole 	500	gm	65	53
+pulses	Mix Dal 	500	gm	73	60
+pulses	Mixed Pulses For Sprout 	500	gm	64	54
+pulses	Moong Dal 	1	kg	149	122
+pulses	Moong Dal Chilti 	500	gm	69	60
+pulses	Moong Whole 	1	kg	142	117
+pulses	Moong Whole Small 	500	gm	68	57
+pulses	Organic Tattva Arhar Tur Dal 	1	kg	270	135
+pulses	Organic Tattva Kabuli Chana 	500	gm	145	95
+pulses	Organic Tattva Kala Chana 	500	gm	85	56
+pulses	Organic Tattva Moong Dal Whole 	500	gm	125	82
+pulses	Organic Tattva Moong Dal Yellow Split 	1	kg	270	178
+pulses	Premia Chana Small 	1	kg	92	79
+pulses	Satyam Chana Dal 	500	gm	77	70
+pulses	Satyam Chana Green 	500	gm	159	135
+pulses	Satyam Chana Mosambi 	500	gm	90	78
+pulses	Satyam Chana Small 	500	gm	70	65
+pulses	Satyam Toor Dal Oily 	500	gm	109	100
+pulses	Tata Sampann 100% Organic Unpolished Chana Dal 	1	kg	190	171
+pulses	Tata Sampann Chana Dal 	500	gm	64	48
+pulses	Toor Dal Oily 	5	kgs	750	560
+pulses	Toor Dal Plain 	5	kgs	750	525
+pulses	Tur Dal Latur 	1	kg	141	119
+pulses	Udid (Urad) Dal Chilti 	500	gm	76	62
+					
+					
+					
+Flour	Bajari 	1	kg	47	39
+Flour	Bajari Atta 	500	gm	35	30
+Flour	Besan 	1	kg	91	79
+Flour	Bhagirathi Bajra Atta 	500	gm	35	28
+Flour	Bhagirathi Jowar Atta 	500	gm	44	34
+Flour	Bhagirathi Makai (Corn) Flour 	500	gm	36	28
+Flour	Bhagirathi Multigrain Bhakari Atta 	500	gm	48	33
+Flour	Bhagirathi Nachani (Ragi) Atta 	500	gm	44	37
+Flour	Bhagirathi Rajgira Atta 	200	gm	55	39
+Flour	Bhagirathi Sattu Atta 	200	gm	40	34
+Flour	Bhagirathi Shingada Atta 	200	gm	120	85
+Flour	Blue Bird Corn Flour 	500	gm	80	74
+Flour	Fortune Chana Dal Besan 	1	kg	140	89
+Flour	Makai Atta 	500	gm	29	24
+Flour	Nachni Atta 	500	gm	31	26
+Flour	Pillsbury Multi Grain Atta 	5	kgs	315	230
+Flour	Weikfield Corn Flour 	100	gm	29	25
+					
+					
+					
+rice	Basmati Rice 	1	kg	113	97
+rice	Basmati Rice Broken (Kani) 	10	kgs	375	345
+rice	Basmati Rice Mini Mogra (Broken) 	10	kgs	650	395
+rice	Biryani Rice 	5	kgs	700	425
+rice	Daawat Biryani Basmati Rice 	1	kg	220	172
+rice	Daawat Brown Basmati Rice 	1	kg	175	139
+rice	Daawat Devaaya Basmati Rice 	5	kgs	572	395
+rice	Daawat Heritage Daily Feast Tukda Basmati Rice 	5	kgs	500	250
+rice	Daawat Pulav Basmati Rice 	1	kg	135	108
+rice	Daawat Pulav Basmati Rice 	5	kgs	675	559
+rice	Daawat Pulav Basmati Rice 	500	gm	75	49
+rice	Daawat Rozana Basmati Rice 		Gol	 5 kgs	560
+rice	Daawat Rozana Mini Mogra 2 (Broken) Rice 	10	kgs	395	309
+rice	Daawat Rozana Super Basmati Rice 	5	kgs	425	339
+rice	Daawat Sehat Mini Mogra (Broken) Basmati Rice 	5	kgs	305	229
+rice	Daawat Sehat Mogra Basmati Rice 	5	kgs	360	309
+rice	Daawat Super Basmati Rice 	5	kgs	920	575
+rice	Daawat Traditional Basmati Rice 	1	kg	210	186
+rice	Devaaya Biryani Basmati Rice 	1	kg	200	98
+rice	Devaaya Biryani Basmati Rice 	5	kgs	1000	499
+rice	Eco Kolam Jirasar Sorted Rice 	10	kgs	550	411
+rice	Fortune Biryani Special Basmati Rice 	5	kgs	875	585
+rice	Fortune Everyday Hamesha Basmati Rice 	5	kgs	425	299
+rice	Fortune Mogra Basmati Rice 	5	kgs	375	279
+rice	HMT Kolam Sorted Rice 	10	kgs	850	525
+rice	Idli Rice 	1	kg	60	51
+rice	India Gate Basmati Rice 	5	kgs	1085	? 860
+rice	India Gate Basmati Rice 	5	kgs	645	? 559
+rice	India Gate Basmati Rice 	10	kgs	390	335
+rice	India Gate Basmati Rice 	5	kgs	425	? 329
+rice	India Gate Basmati Rice 	5	kgs	725	? 545
+rice	India Gate Brown Rice 	1	kg	152	120
+rice	India Gate Mini Mogra (Broken) Basmati Rice 	10	kgs	660	515
+rice	India Gate Super Basmati Rice 	5	kgs	935	599
+rice	IR Boiled Rice 	1	kg	46	38
+rice	Jawari Atta 	500	gm	31	25
+rice	Long Grain Rice 	10	kgs	650	435
+rice	Masoori Boiled Rice 	1	kg	49	41
+rice	Mogra Basmati Rice 	1	kg	69	55
+rice	Mother’s Recipe Chicken Biryani Mix 	100	gm	55	27
+rice	Rice Basmati Tukda 	5	kgs	490	290
+rice	Rice Basmati Wand 	5	kgs	840	447
+Ricebran	Riso Ricebran Oil 	1	Liticr	225	179
+rice	Suhana Chicken Biryani Mix 	50	gm	40	29
+					
+					
+					
+others	Bedekar Thalipith Bhajni 	200	gm	45	40
+others	Bhagirathi Thalipeeth Bhajni 	200	gm	45	35
+others	Bhagirathi Upwas Bhajani 	200	gm	55	39
+others	Blue Bird Baking Powder 	50	gm	27	22
+others	Blue Bird Test  Nov Monosodium Glutamate 	25	gm	30	22
+others	Chowli Big 	500	gm	63	53
+others	Chowli Premium 	500	gm	83	68
+others	Chowli Red 	500	gm	73	59
+others	Chowli Small 	500	gm	68	57
+others	Christopher Cocoa Baking Powder 	200	gm	199	99
+others	Christopher Cocoa Baking Soda All Purpose 	250	gm	199	99
+others	Et   Mi Baking Powder 	500	gm	25	22
+others	Flying Bird Artificial Food Essence Shahi Biryani 	20	ml	90	70
+others	Jaggery 	900	gm	80	60
+others	Keshar Premium Natural Jaggery Jar 	900	gm	100	90
+others	Kokan Gem Thalipeeth Bhajani 	200	gm	50	35
+others	Kolhapuri Surati Kurmura 	500	gm	80	44
+others	Kubal SP Mix Usal Masala 	200	gm	130	65
+others	Laxmi Jaya Kurmura 	500	gm	60	40
+others	Makai For Popcorn 	200	gm	36	28
+others	Nisarga Desiccated Coconut Powder 	200	gm	85	65
+others	Nutrela Soya Chunks 	200	gm	60	52
+others	Nutrela Soya Granules 	200	gm	60	50
+others	Nutrela Soya Mini Chunks 	200	gm	60	52
+others	Organic India Quinoa 	500	gm	295	265
+others	Premia Alsi 	100	gm	24	18
+others	Premia Badishep 	200	gm	86	67
+others	Premia Coconut Powder 	200	gm	73	57
+others	Premia Dhaniya 	400	gm	152	108
+others	Premia Emli 	500	gm	118	94
+others	Premia Groundnut 	500	gm	98	84
+others	Premia Halim 	100	gm	20	16
+others	Premia Jaifal 	4	Piec	65	50
+others	Premia Jardalu 	100	gm	78	61
+others	Premia Jeera 	200	gm	94	72
+others	Premia Kaju 	500	gm	560	437
+others	Premia Kalvanji 	100	gm	34	26
+others	Premia Lawang 	20	gm	38	31
+others	Premia Methi 	100	gm	17	15
+others	Premia Rai 	200	gm	42	31
+others	Premia Sabja 	100	gm	56	39
+others	Premia Sabudana 	1	kg	75	62
+others	Premia Sakariya 	200	gm	20	16
+others	Premia Soyawadi 	200	gm	48	29
+others	Premia Sugar 	5	kgs	267	215
+others	Weikfield Baking Powder 	50	gm	25	20
+					
+					
+Oil	Bertolli Extra Light Tasting Olive Oil 	2	Liter	2999	1049
+Oil	Borges Extra Light Olive Oil 	2	liter	2600	1155
+Oil	Borges Extra Virgin Olive Oil 	1	liter	1400	775
+Oil	Borges Pure Olive Oil  Classic 	1	liter	1350	639
+oil	Coco Soul Virgin Coconut Oil 	500	ml	449	345
+Oil	Dalda Refined Sunflower Oil Pouch 	1	Liter	225	185
+oil	Dalda Vanaspati 	1	Litar	235	172
+Oil	Del Monte Extra Light Olive Oil 	2	liter	2400	943
+Oil	Dhara Filtered Groundnut Oil Pouch 	1	liter	235	196
+Oil	Dhara Kachighani (Mustard) Oil 	1	liter	210	190
+Oil	Dhara Life Refined Rice Bran Oil Jar 	15	liter	3030	2799
+oil	Dhara Refined Rice Bran Oil 	5	liter	1020	925
+oil	Dhara Refined Sunflower Oil 	1	Liter	235	198
+oil	Dhara Refined Sunflower Oil 	15	liter	3570	3019
+Oil	Figaro Extra Virgin Olive Oil 	500	ml	649	405
+Oil	Figaro Olive Oil Tin 	1	liter	999	765
+oil	Fortune Filtered Groundnut Oil 	1	liter	230	189
+oil	Fortune Kachi Ghani Mustard Oil 	1	liter	228	197
+oil	Fortune Kachi Ghani Mustard Oil Bottle 	1	liter	220	197
+oil	Fortune Plus Soya Health Oil 	1	liter	199	179
+oil	Fortune Refined Sunflower Oil Tin 	15	liter	3500	2949
+oil	Fortune Rice Bran Health Oil 	1	liter	225	186
+oil	Fortune Rice Bran Health Oil 	15	liter	3400	2755
+oil	Fortune Sunlite Refined Sunflower Oil 	1	liter	230	205
+oil	Fortune Sunlite Refined Sunflower Oil 	15	liter	3650	3039
+oil	Fortune Vivo Blended Oil 	5	liter	1150	919
+oil	Gemini Refined Soyabean Oil 	1	liter	215	185
+oil	Gemini Refined Sunflower Oil 	15	liter	3550	3049
+oil	Gemini Refined Sunflower Oil 	5	liter	1225	1049
+oil	Gemini Rice Bran Oil 	1	liter	215	181
+oil	Godrej Refined Sunflower Oil 	15	liter	3520	2999
+oil	Godrej Vanaspati 	1	liter	195	173
+oil	Gramiyaa Wood Cold Pressed Coconut Oil 	500	ml	235	180
+oil	Gramiyaa Wood Cold Pressed Groundnut Oil 	1	liter	380	290
+oil	Gramiyaa Wood Cold Pressed Sesame Oil 	500	ml	295	210
+oil	Guinea Filtered Groundnut Oil 	15	liter	3500	2669
+oil	Guinea Filtered Groundnut Oil 	5	liter	1275	1099
+oil	Guinea Lite Groundnut Oil 	5	liter	1275	1099
+oil	Gulab Filtered Groundnut Oil 	1	liter	235	183
+oil	Gulab Filtered Groundnut Oil 	15	liter	3459	2685
+oil	Gulab Sunflower Oil 	1	liter	238	187
+oil	Gulab Sunflower Oil Jar 	15	liter	3589	2825
+oil	Hudson Canola Oil 	1	liter	299	199
+oil	Idhayam Gingelly Oil 	1	liter	334	295
+oil	Idhayam Sesame Oil Bottle 	1	liter	351	305
+oil	KLF Coconad 100% Pure Coconut Oil 	1	liter	330	220
+Oil	KPL Shudhi Coconut Oil 	1	liter	268	228
+Oil	Leonardo Extra Light Olive Oil 	2	liter	2599	1400
+oil	Leonardo Olive Pomace Oil 	5	liter	4099	1899
+Oil	Nature Fresh Refined Sunflower Oil Pouch 	1	liter	240	199
+oil	Patanjali Kachi Ghani Mustard Oil 	1	liter	195	184
+Oil	Patanjali Kachi Ghani Mustard Oil Pouch 	1	liter	200	189
+Oil	RRO Mastdil Premium Mustard Oil Bottle 	1	liter	265	211
+Oil	RRO Til Dil Premium Til Oil Bottle 	1	liter	360	286
+oil	Saffola Active Oil 	1	liter	225	189
+oil	Saffola Active Oil 	15	liter	3400	3130
+Oil	Sunny Sun Lite Refined Sunflower Oil Jar 	15	Liut	3915	2949
+Oil	Sweekar Refined Sunflower Oil Jar 	15	Li t	3600	3109
+Oil	Tez Mustard Kachchi Ghani Oil Bottle 	1	liter	235	202
+Oil	Tez Mustard Kachchi Ghani Oil Pouch 	1	liter	231	199
+Oil	Tilsona Til Oil Bottle 	1	liter	365	315
+					
+ghee	Gowardhan Pure Cow Ghee 	1	liter	629	550
+ghee	Mother Dairy Pure Cow Ghee 	1	Litr	550	475
+ghee	Organic India Organic Cow Ghee 	500	ml	650	585
+					
+					
+breakfast	Dabur Hommade Coconut Milk 	200	ml	75	69
+breakfast	Lapsi Rava Small Daliya 	500	gm	30	24
+breakfast	Miki Maize (Makai) Poha 	500	gm	42	33
+breakfast	Mix Chana Vatana (for Sprout) 	500	gm	74	67
+breakfast	Organic Tattva Red Poha 	500	gm	80	53
+breakfast	Premia Amchur Powder 	100	gm	40	32
+breakfast	Premia Red Poha 	500	gm	34	29
+breakfast	Premia Refined Rice Bran Oil 	1	Litr	190	159
+breakfast	Rajma Red Small 	500	gm	1	53
+breakfast	Red Rice 	1	kg	62	51
+breakfast	Ricela Refined Rice Bran Oil 	5	Litr	1115	915
+breakfast	Royal Delight Finest Mabroom Dates 	250	gm	425	282
+breakfast	Satyam Khobra (Coconut) 	200	gm	108	99
+breakfast	Snapin Cheesy Garlic Bread Mix 	45	gm	99	79
+breakfast	24 Mantra Organic Red Poha 	500	gm	75	37

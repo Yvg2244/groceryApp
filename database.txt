@@ -1,0 +1,663 @@
+1	Aabad Cow Ghee Jar – 1 Litre	₹ 594	₹ 420
+2	Aabad Desi Cow Ghee Pouch – 1 Litre	₹ 579	₹ 399
+3	Aabad Desi Ghee Pouch – 1 Litre	₹ 579	₹ 399
+4	Aashirvaad Chilli Powder – 500gm	₹ 180	₹ 120
+5	Aashirvaad Multigrain Atta – 5 kgs	₹ 320	₹ 260
+6	Aashirvaad Salt – 1 kg	₹ 24	₹ 12
+7	Aashirvaad Select Sharbati Wheat Atta – 5 kgs	₹ 305	₹ 255
+8	Aashirvaad Superior MP Wheat Atta – 10 kgs	₹ 476	₹ 398
+9	Aashirvaad Svasti Pure Cow Ghee Pouch – 1 Litre	₹ 650	₹ 455
+10	Ambemohar Rice – 5 kgs	₹ 650	₹ 484
+11	Amul Cow Ghee Pouch – 1 Litre	₹ 520	₹ 482
+12	Amul Cow Ghee Tin – 1 Litre	₹ 535	₹ 499
+13	Amul Pure Ghee Jar – 500 ml	₹ 265	₹ 248
+14	Amul Pure Ghee Pouch – 1 Litre	₹ 505	₹ 475
+15	Amul Pure Ghee Tin – 1 Litre	₹ 540	₹ 499
+16	Apis Royal Zahidi Premium Dates – 500gm	₹ 116	₹ 90
+17	Avanti Sugar Cubes – 126 Cubes	₹ 65	₹ 57
+18	Azmah Dates – 500gm	₹ 625	₹ 464
+19	Badshah Biryani Pulav Masala – 100gm	₹ 122	₹ 85
+20	Badshah Black Pepper Powder – 50gm	₹ 80	₹ 40
+21	Badshah Chana Masala – 100gm	₹ 66	₹ 53
+22	Badshah Chat Masala – 100gm	₹ 67	₹ 47
+23	Badshah Chicken Masala – 100gm	₹ 76	₹ 56
+24	Badshah Hing Compounded – 50gm	₹ 95	₹ 47
+25	Badshah Kitchen King Masala – 100gm	₹ 70	₹ 53
+26	Badshah Mumbai Bhaji Pav Masala – 100gm	₹ 74	₹ 52
+27	Badshah Punjabi Chhole Masala – 100gm	₹ 66	₹ 46
+28	Badshah Rajwadi Garam Masala – 100gm	₹ 81	₹ 60
+29	Bajari – 1 kg	₹ 47	₹ 39
+30	Bajari Atta – 500gm	₹ 35	₹ 30
+31	Basmati Rice – 1 kg	₹ 113	₹ 97
+32	Basmati Rice Broken (Kani) – 10 kgs	₹ 375	₹ 345
+33	Basmati Rice Mini Mogra (Broken) – 10 kgs	₹ 650	₹ 395
+34	Basmati Rice Mogra – 10 kgs	₹ 750	₹ 524
+35	Bedekar Goda Masala – 100gm	₹ 60	₹ 45
+36	Bedekar Ready Mix Pickle Masala – 100gm	₹ 70	₹ 55
+37	Bedekar Thalipith Bhajni – 200gm	₹ 45	₹ 40
+38	Bertolli Extra Light Tasting Olive Oil – 2 Litres	₹ 2999	₹ 1049
+39	Besan – 1 kg	₹ 91	₹ 79
+40	Bhagirathi Bajra Atta – 500gm	₹ 35	₹ 28
+41	Bhagirathi Jowar Atta – 500gm	₹ 44	₹ 34
+42	Bhagirathi Makai (Corn) Flour – 500gm	₹ 36	₹ 28
+43	Bhagirathi Multigrain Bhakari Atta – 500gm	₹ 48	₹ 33
+44	Bhagirathi Nachani (Ragi) Atta – 500gm	₹ 44	₹ 37
+45	Bhagirathi Rajgira Atta – 200gm	₹ 55	₹ 39
+46	Bhagirathi Rice Atta – 500gm	₹ 33	₹ 28
+47	Bhagirathi Sattu Atta – 200gm	₹ 40	₹ 34
+48	Bhagirathi Shingada Atta – 200gm	₹ 120	₹ 85
+49	Bhagirathi Thalipeeth Bhajni – 200gm	₹ 45	₹ 35
+50	Bhagirathi Upwas Bhajani – 200gm	₹ 55	₹ 39
+51	Biryani Rice – 5 kgs	₹ 700	₹ 425
+52	Blue Bird Baking Powder – 50gm	₹ 27	₹ 22
+53	Blue Bird Corn Flour – 500gm	₹ 80	₹ 74
+54	Blue Bird Test – Mi – Nov Monosodium Glutamate – 25gm	₹ 30	₹ 22
+55	Borges Extra Light Olive Oil – 2 Litres	₹ 2600	₹ 1155
+56	Borges Extra Virgin Olive Oil – 1 Litre	₹ 1400	₹ 775
+57	Borges Pure Olive Oil – Classic – 1 Litre	₹ 1350	₹ 639
+58	Carnival Classic California Pistachios – 250gm	₹ 460	₹ 299
+59	Carnival Classic Pista Magaz – 250gm	₹ 700	₹ 399
+60	Carnival Cranberry Classic Sliced – 200gm	₹ 185	₹ 116
+61	Carnival Premium Seedless Black Raisins – 250gm	₹ 270	₹ 135
+62	Chana Big – 500gm	₹ 59	₹ 49
+63	Chana Dal – 1 kg	₹ 93	₹ 78
+64	Chana Green – 500gm	₹ 135	₹ 113
+65	Chana Small – 500gm	₹ 47	₹ 39
+66	Ching’s Schezwan Fried Rice Masala – 5×20gm	₹ 60	₹ 50
+67	Chitale Dairy Cow Ghee Box – 1 Litre	₹ 570	₹ 530
+68	Chitale Dairy Ghee Box – 1 Litre	₹ 570	₹ 530
+69	Chowli Big – 500gm	₹ 63	₹ 53
+70	Chowli Premium – 500gm	₹ 83	₹ 68
+71	Chowli Red – 500gm	₹ 73	₹ 59
+72	Chowli Small – 500gm	₹ 68	₹ 57
+73	Christopher Cocoa Baking Powder – 200gm	₹ 199	₹ 99
+74	Christopher Cocoa Baking Soda All Purpose – 250gm	₹ 199	₹ 99
+75	Coco Soul Virgin Coconut Oil – 500 ml	₹ 449	₹ 345
+76	Daawat Biryani Basmati Rice – 1 kg	₹ 220	₹ 172
+77	Daawat Brown Basmati Rice – 1 kg	₹ 175	₹ 139
+78	Daawat Devaaya Basmati Rice – 5 kgs	₹ 572	₹ 395
+79	Daawat Heritage Daily Feast Tukda Basmati Rice – 5 kgs	₹ 500	₹ 250
+80	Daawat Pulav Basmati Rice – 1 kg	₹ 135	₹ 108
+81	Daawat Pulav Basmati Rice – 5 kgs	₹ 675	₹ 559
+82	Daawat Pulav Basmati Rice – 500gm	₹ 75	₹ 49
+83	Daawat Rozana Basmati Rice – Gold – 5 kgs	₹ 560	₹ 384
+84	Daawat Rozana Mini Mogra 2 (Broken) Rice – 10 kgs	₹ 395	₹ 309
+85	Daawat Rozana Super Basmati Rice – 5 kgs	₹ 425	₹ 339
+86	Daawat Sehat Mini Mogra (Broken) Basmati Rice – 5 kgs	₹ 305	₹ 229
+87	Daawat Sehat Mogra Basmati Rice – 5 kgs	₹ 360	₹ 309
+88	Daawat Super Basmati Rice – 5 kgs	₹ 920	₹ 575
+89	Daawat Traditional Basmati Rice – 1 kg	₹ 210	₹ 186
+90	Dabur Hommade Coconut Milk – 200 ml	₹ 75	₹ 69
+91	Dal – Rice Mix – 500gm	₹ 47	₹ 39
+92	Dalda Refined Sunflower Oil Pouch – 1 Litre	₹ 225	₹ 185
+93	Dalda Vanaspati – 1 Litre	₹ 235	₹ 172
+94	Daliya – 500gm	₹ 68	₹ 55
+95	Date Crown Bumaan Dates – 500gm	₹ 140	₹ 95
+96	Date Crown Fard (Khajur) – 500gm	₹ 234	₹ 165
+97	Date Crown Khenaizi (Khajur) – 500gm	₹ 234	₹ 182
+98	Del Monte Extra Light Olive Oil – 2 Litres	₹ 2400	₹ 943
+99	Desi Kabuli Chana – 1 kg	₹ 184	₹ 145
+100	Devaaya Biryani Basmati Rice – 1 kg	₹ 200	₹ 98
+101	Devaaya Biryani Basmati Rice – 5 kgs	₹ 1000	₹ 499
+102	Dhara Filtered Groundnut Oil Pouch – 1 Litre	₹ 235	₹ 196
+103	Dhara Kachighani (Mustard) Oil – 1 Litre	₹ 210	₹ 190
+104	Dhara Life Refined Rice Bran Oil Jar – 15 Litres	₹ 3030	₹ 2799
+105	Dhara Refined Rice Bran Oil – 5 Litres	₹ 1020	₹ 925
+106	Dhara Refined Sunflower Oil – 1 Litre	₹ 235	₹ 198
+107	Dhara Refined Sunflower Oil – 15 Litres	₹ 3570	₹ 3019
+108	DMart Healthy Choice Unpolished Moong Dal – 1 kg	₹ 167	₹ 134
+109	DMart Healthy Choice Unpolished Toor Dal – 1 kg	₹ 172	₹ 144
+110	DMart Premia Almonds Pudina – 100gm	₹ 200	₹ 119
+111	DMart Premia Almonds Salted – 100gm	₹ 200	₹ 119
+112	DMart Premia Cashews Black Pepper – 100gm	₹ 215	₹ 129
+113	DMart Premia Cashews Salted – 100gm	₹ 215	₹ 129
+114	Dynamix Cow Ghee Jar – 1 Litre	₹ 615	₹ 525
+115	Dynamix Cow Ghee Pouch – 1 Litre	₹ 599	₹ 505
+116	Dynamix Cow Ghee Tin – 5 Litres	₹ 3000	₹ 2549
+117	Eco Kolam Jirasar Sorted Rice – 10 kgs	₹ 550	₹ 411
+118	Emperor Dates – Dates with Seed – 500gm	₹ 110	₹ 85
+119	Emperor Dates – Deseeded Black Dates (Khajur) – 500gm	₹ 145	₹ 130
+120	Emperor Dates Iranian Muzafati – 400gm	₹ 170	₹ 133
+121	Emperor Premium Dates Zahidi – 500gm	₹ 150	₹ 113
+122	Emperor Royal Peacock Seeded Dates (Khajur) – 500gm	₹ 125	₹ 93
+123	Et – Mi Baking Powder – 50gm	₹ 25	₹ 22
+124	Everest Chaat Masala – 100gm	₹ 69	₹ 58
+125	Everest Chhole Masala – 100gm	₹ 67	₹ 60
+126	Everest Chicken Masala – 50gm	₹ 41	₹ 36
+127	Everest Coriander Powder – 200gm	₹ 66	₹ 54
+128	Everest Garam Masala – 100gm	₹ 84	₹ 68
+129	Everest Kashmirilal Red Chilli Powder – 100gm	₹ 85	₹ 68
+130	Everest Kesari Milk Masala – 50gm	₹ 205	₹ 184
+131	Everest Kitchen King Masala – 100gm	₹ 74	₹ 63
+132	Everest Kutilal Chilli Powder – 100gm	₹ 50	₹ 43
+133	Everest Meat Masala – 100gm	₹ 74	₹ 62
+134	Everest Pani Puri Masala – 50gm	₹ 33	₹ 29
+135	Everest Pav Bhaji Masala – 100gm	₹ 74	₹ 62
+136	Everest Sabji Masala – 50gm	₹ 32	₹ 26
+137	Everest Sambhar Masala – 50gm	₹ 36	₹ 30
+138	Everest Shahi Biryani Masala – 50gm	₹ 70	₹ 58
+139	Everest Tandoori Chicken Masala – 100gm	₹ 78	₹ 68
+140	Everest Tea Masala – 100gm	₹ 102	₹ 88
+141	Everest Tikhalal Chilli Powder – 200gm	₹ 100	₹ 85
+142	Everest Turmeric Powder – 200gm	₹ 64	₹ 54
+143	Everest Yellow Hing Powder – 100gm	₹ 170	₹ 150
+144	Falcon Aqaba Dates – 500gm	₹ 130	₹ 100
+145	Falcon Safawi Dates – 500gm	₹ 500	₹ 350
+146	Falcon UAE Dates Seeded – 500gm	₹ 145	₹ 124
+147	Falcon UAE Dates Seedless (Khajur) – 500gm	₹ 185	₹ 158
+148	Figaro Extra Virgin Olive Oil – 500 ml	₹ 649	₹ 405
+149	Figaro Olive Oil Tin – 1 Litre	₹ 999	₹ 765
+150	Flying Bird Artificial Food Essence Shahi Biryani – 20 ml	₹ 90	₹ 70
+151	Fortune Biryani Special Basmati Rice – 5 kgs	₹ 875	₹ 585
+152	Fortune Chakki Fresh Wheat Atta – 10 kgs	₹ 410	₹ 349
+153	Fortune Chana Dal Besan – 1 kg	₹ 140	₹ 89
+154	Fortune Everyday Hamesha Basmati Rice – 5 kgs	₹ 425	₹ 299
+155	Fortune Filtered Groundnut Oil – 1 Litre	₹ 230	₹ 189
+156	Fortune Kachi Ghani Mustard Oil – 1 Litre	₹ 228	₹ 197
+157	Fortune Kachi Ghani Mustard Oil Bottle – 1 Litre	₹ 220	₹ 197
+158	Fortune Mogra Basmati Rice – 5 kgs	₹ 375	₹ 279
+159	Fortune Plus Soya Health Oil – 1 Litre	₹ 199	₹ 179
+160	Fortune Refined Sunflower Oil Tin – 15 Litres	₹ 3500	₹ 2949
+161	Fortune Rice Bran Health Oil – 1 Litre	₹ 225	₹ 186
+162	Fortune Rice Bran Health Oil – 15 Litres	₹ 3400	₹ 2755
+163	Fortune Sunlite Refined Sunflower Oil – 1 Litre	₹ 230	₹ 205
+164	Fortune Sunlite Refined Sunflower Oil – 15 Litres	₹ 3650	₹ 3039
+165	Fortune Vivo Blended Oil – 5 Litres	₹ 1150	₹ 919
+166	Gemini Refined Soyabean Oil – 1 Litre	₹ 215	₹ 185
+167	Gemini Refined Sunflower Oil – 15 Litres	₹ 3550	₹ 3049
+168	Gemini Refined Sunflower Oil – 5 Litres	₹ 1225	₹ 1049
+169	Gemini Rice Bran Oil – 1 Litre	₹ 215	₹ 181
+170	Godrej Refined Sunflower Oil – 15 Litres	₹ 3520	₹ 2999
+171	Godrej Vanaspati – 1 Litre	₹ 195	₹ 173
+172	Goldiee Biryani/Pulav Masala – 50gm	₹ 42	₹ 21
+173	Goldiee Chat Masala – 100gm	₹ 62	₹ 31
+174	Goldiee Chhole Masala – 100gm	₹ 72	₹ 36
+175	Goldiee Chicken Masala – 100gm	₹ 62	₹ 31
+176	Goldiee Garam Masala – 100gm	₹ 76	₹ 38
+177	Goldiee Kashmiri Mirch Powder – 100gm	₹ 86	₹ 43
+178	Goldiee Kitchen King Masala – 100gm	₹ 70	₹ 35
+179	Goldiee Meat Masala Special – 100gm	₹ 78	₹ 39
+180	Goldiee Pavbhaji Masala – 100gm	₹ 64	₹ 32
+181	Goldiee Sabji Masala – 100gm	₹ 56	₹ 28
+182	Gowardhan Pure Cow Ghee – 1 Litre	₹ 629	₹ 550
+183	Gowardhan Pure Cow Ghee Pouch – 1 Litre	₹ 609	₹ 545
+184	Gramiyaa Wood Cold Pressed Coconut Oil – 500 ml	₹ 235	₹ 180
+185	Gramiyaa Wood Cold Pressed Groundnut Oil – 1 Litre	₹ 380	₹ 290
+186	Gramiyaa Wood Cold Pressed Sesame Oil – 500 ml	₹ 295	₹ 210
+187	Guinea Filtered Groundnut Oil – 15 Litres	₹ 3500	₹ 2669
+188	Guinea Filtered Groundnut Oil – 5 Litres	₹ 1275	₹ 1099
+189	Guinea Lite Groundnut Oil – 5 Litres	₹ 1275	₹ 1099
+190	Gulab Filtered Groundnut Oil – 1 Litre	₹ 235	₹ 183
+191	Gulab Filtered Groundnut Oil – 15 Litres	₹ 3459	₹ 2685
+192	Gulab Sunflower Oil – 1 Litre	₹ 238	₹ 187
+193	Gulab Sunflower Oil Jar – 15 Litres	₹ 3589	₹ 2825
+194	HMT Kolam Sorted Rice – 10 kgs	₹ 850	₹ 525
+195	Hommade Ginger Garlic Paste – 200gm	₹ 50	₹ 30
+196	Hommade Tomato Puree – 200gm	₹ 25	₹ 22
+197	Hudson Canola Oil – 1 Litre	₹ 299	₹ 199
+198	Idhayam Gingelly Oil – 1 Litre	₹ 334	₹ 295
+199	Idhayam Sesame Oil Bottle – 1 Litre	₹ 351	₹ 305
+200	Idli Rice – 1 kg	₹ 60	₹ 51
+201	India Gate Basmati Rice – Classic – 5 kgs	₹ 1085	₹ 860
+202	India Gate Basmati Rice – Dubar – 5 kgs	₹ 645	₹ 559
+203	India Gate Basmati Rice – Mini Mogra – II – Kanki – 10 kgs	₹ 390	₹ 335
+204	India Gate Basmati Rice – Mogra – 5 kgs	₹ 425	₹ 329
+205	India Gate Basmati Rice – Tibar – 5 kgs	₹ 725	₹ 545
+206	India Gate Basmati Rice Rozana – 5 kgs	₹ 585	₹ 399
+207	India Gate Brown Rice – 1 kg	₹ 152	₹ 120
+208	India Gate Mini Mogra (Broken) Basmati Rice – 10 kgs	₹ 660	₹ 515
+209	India Gate Super Basmati Rice – 5 kgs	₹ 935	₹ 599
+210	IR Boiled Rice – 1 kg	₹ 46	₹ 38
+211	Jaggery – 900gm	₹ 80	₹ 60
+212	Jalaram Brand Black Pepper Powder – 50gm	₹ 85	₹ 57
+213	Jalaram Brand Cardamom Powder – 20gm	₹ 110	₹ 74
+214	Jalaram Brand Cinnamon Powder – 50gm	₹ 75	₹ 50
+215	Jalaram Brand Kashmiri Milk Masala – 20gm	₹ 94	₹ 65
+216	Jalaram Brand Nutmeg (Jaifal) Powder – 10gm	₹ 35	₹ 24
+217	Jalaram Brand Tea Masala with Saffron – 20gm	₹ 60	₹ 42
+218	Jalaram Kesar (Saffron) – 1 gm	₹ 280	₹ 199
+219	Jawari Atta – 500gm	₹ 31	₹ 25
+220	Kalbavi Cashews (Kaju) – 500gm	₹ 650	₹ 399
+221	Kapol Dabeli Masala – 50gm	₹ 60	₹ 50
+222	Kapol Sandwich Masala – 50gm	₹ 50	₹ 40
+223	Kapol Special Chhas Masala – 50gm	₹ 40	₹ 34
+224	Kapol Tea Masala – 100gm	₹ 180	₹ 155
+225	Kapol Usal – Misal Masala – 50gm	₹ 55	₹ 45
+226	Keshar Premium Natural Jaggery Jar – 900gm	₹ 100	₹ 90
+227	King Solomon Oriental Dates – 250gm	₹ 249	₹ 124
+228	KLF Coconad 100% Pure Coconut Oil – 1 Litre	₹ 330	₹ 220
+229	KMK Almond American (Badam) – 200gm	₹ 258	₹ 216
+230	KMK Almond Mamra (Badam) – 200gm	₹ 750	₹ 575
+231	KMK Anjeer (Figs) – 200gm	₹ 340	₹ 303
+232	KMK Black Raisins Seedless (Kismis) – 200gm	₹ 150	₹ 94
+233	KMK Cashew Nut (Kaju) – 200gm	₹ 325	₹ 199
+234	KMK Charoli – 100gm	₹ 221	₹ 160
+235	KMK Cranberry Whole – 200gm	₹ 199	₹ 139
+236	KMK Green Raisins Afghan (Kismis) – 200gm	₹ 215	₹ 124
+237	KMK Mix Mewa Cut Dry Fruits – 200gm	₹ 250	₹ 231
+238	KMK Pista Magaz – 200gm	₹ 508	₹ 357
+239	KMK Pista Salted Irani (Pistachios) – 200gm	₹ 291	₹ 236
+240	KMK Walnut Kernel (Akrod) – 150gm	₹ 325	₹ 260
+241	KMK Walnut Shell (Whole) – 500gm	₹ 475	₹ 360
+242	Kokan Gem Goa Cashew Classic (Kaju) – 500gm	₹ 650	₹ 498
+243	Kokan Gem Goa Cashew Premium (Kaju) – 500gm	₹ 750	₹ 559
+244	Kokan Gem Goa Cashews Tukda – 500gm	₹ 550	₹ 459
+245	Kokan Gem Kulith Pith – 200gm	₹ 60	₹ 40
+246	Kokan Gem Thalipeeth Bhajani – 200gm	₹ 50	₹ 35
+247	Kolhapuri Surati Kurmura – 500gm	₹ 80	₹ 44
+248	KPL Shudhi Coconut Oil – 1 Litre	₹ 268	₹ 228
+249	Kubal Chilli Powder – 500gm	₹ 210	₹ 105
+250	Kubal Coriander Powder – 500gm	₹ 165	₹ 82
+251	Kubal Ready Mix Pickle Masala – 100gm	₹ 60	₹ 30
+252	Kubal SP Mix Usal Masala – 200gm	₹ 130	₹ 65
+253	Kubal SP Sunday Malvani Masala – 1 kg	₹ 740	₹ 370
+254	Kubal Sunday Malvani Masala – 200gm	₹ 150	₹ 75
+255	Kubal Turmeric Powder – 500gm	₹ 150	₹ 75
+256	Kulith (Horse Gram) – 500gm	₹ 52	₹ 43
+257	Lachkari Silky Kolam Sorted Rice – 5 kgs	₹ 460	₹ 275
+258	Lapsi Rava / Daliya – 500gm	₹ 30	₹ 24
+259	Lapsi Rava Small Daliya – 500gm	₹ 30	₹ 24
+260	Laxmi Jaya Kurmura – 500gm	₹ 60	₹ 40
+261	Leonardo Extra Light Olive Oil – 2 Litres	₹ 2599	₹ 1400
+262	Leonardo Olive Pomace Oil – 5 Litres	₹ 4099	₹ 1899
+263	LG Hing – 200gm	₹ 304	₹ 245
+264	Long Grain Rice – 10 kgs	₹ 650	₹ 435
+265	Madhur Pure & Hygienic Sugar (M) – 5 kgs	₹ 295	₹ 228
+266	Maggi Magic Cubes – Vegetarian Masala – 40gm	₹ 35	₹ 32
+267	Maggi Masala – A – Magic – 72gm	₹ 60	₹ 52
+268	Mahafruit Premium Quality Kishmish (Raisins) – 500gm	₹ 215	₹ 149
+269	Makai Atta – 500gm	₹ 29	₹ 24
+270	Makai For Popcorn – 200gm	₹ 36	₹ 28
+271	Makhana – 200gm	₹ 209	₹ 182
+272	Makhana (Foxnuts) – 100gm	₹ 103	₹ 86
+273	Mamra (Puffed Rice) – 500gm	₹ 60	₹ 38
+274	Masala Elaichi – 50gm	₹ 102	₹ 78
+275	Masoor Dal – 1 kg	₹ 129	₹ 106
+276	Masoor Whole – 500gm	₹ 65	₹ 53
+277	Masoori Boiled Rice – 1 kg	₹ 49	₹ 41
+278	Matki – 500gm	₹ 75	₹ 60
+279	Matki Small – 500gm	₹ 101	₹ 84
+280	Mawana Brown Sugar – 1 kg	₹ 130	₹ 104
+281	Mawana Brown Sugar Sachet – 1 kg	₹ 200	₹ 140
+282	Mawana Caster Sugar – 1 kg	₹ 130	₹ 70
+283	Mawana Icing Sugar – 1 kg	₹ 140	₹ 80
+284	Mawana White Sugar Sachet – 1 kg	₹ 160	₹ 95
+285	MDH Chana Masala – 100gm	₹ 78	₹ 58
+286	MDH Chicken Masala – 100gm	₹ 80	₹ 64
+287	MDH Chunky Chat Masala – 100gm	₹ 78	₹ 65
+288	MDH Deggi Mirch – 100gm	₹ 89	₹ 70
+289	MDH Garam Masala – 100gm	₹ 92	₹ 73
+290	MDH Kitchen King Masala – 100gm	₹ 79	₹ 65
+291	MDH Pav Bhaji Masala – 100gm	₹ 81	₹ 65
+292	MDH Peacock Kasoori Methi – 25gm	₹ 25	₹ 22
+293	Miki Maize (Makai) Poha – 500gm	₹ 42	₹ 33
+294	Mix Chana Vatana (for Sprout) – 500gm	₹ 74	₹ 67
+295	Mix Dal – 500gm	₹ 73	₹ 60
+296	Mixed Pulses For Sprout – 500gm	₹ 64	₹ 54
+297	Mogra Basmati Rice – 1 kg	₹ 69	₹ 55
+298	Moong Dal – 1 kg	₹ 149	₹ 122
+299	Moong Dal Chilti – 500gm	₹ 69	₹ 60
+300	Moong Whole – 1 kg	₹ 142	₹ 117
+301	Moong Whole Small – 500gm	₹ 68	₹ 57
+302	Morya Phool Makhana (Fox Nuts) – 100gm	₹ 130	₹ 99
+303	Mother Dairy Pure Cow Ghee – 1 Litre	₹ 550	₹ 475
+304	Mother’s Recipe Chicken Biryani Mix – 100gm	₹ 55	₹ 27
+305	Mother’s Recipe Ginger Garlic Paste – 200gm	₹ 50	₹ 25
+306	Mother’s Recipe Kadhai Paneer Masala Mix – 75gm	₹ 55	₹ 27
+307	Mother’s Recipe Paneer Butter Masala Mix – 75gm	₹ 55	₹ 27
+308	Mother’s Recipe Rozaana Ginger & Garlic Paste – 700gm	₹ 219	₹ 109
+309	MTR Idli/Dosa/Chilly Chutney Powder – 200gm	₹ 125	₹ 115
+310	MTR Sambar Powder – 200gm	₹ 125	₹ 109
+311	Nachni – 1 kg	₹ 48	₹ 40
+312	Nachni Atta – 500gm	₹ 31	₹ 26
+313	Nature Fresh Refined Sunflower Oil Pouch – 1 Litre	₹ 240	₹ 199
+314	Nature Fresh Sampoorna Superior MP Wheat Atta – 10 kgs	₹ 450	₹ 349
+315	Nisarga Desiccated Coconut Powder – 200gm	₹ 85	₹ 65
+316	Nutraj Almond – 200gm	₹ 399	₹ 165
+317	Nutraj Broken Cashew – 400gm	₹ 499	₹ 379
+318	Nutraj California Almonds (Badam) – 500gm	₹ 899	₹ 389
+319	Nutraj California Walnut Kernels (Akrod Magaj) – 200gm	₹ 499	₹ 285
+320	Nutraj California Whole Walnut (Akrod) – 1 kg	₹ 999	₹ 579
+321	Nutraj Cashews – 500gm	₹ 699	₹ 378
+322	Nutraj Dry Dates (Chuara – Khareek) – 500gm	₹ 249	₹ 149
+323	Nutraj Iranian Pistachios (Pista) – 200gm	₹ 449	₹ 229
+324	Nutraj Mix Dry Fruits – 450gm	₹ 399	₹ 249
+325	Nutraj Plain Pistachio Kernel – 100gm	₹ 299	₹ 199
+326	Nutraj Premium California Pistachios (Pista) – 200gm	₹ 379	₹ 229
+327	Nutraj Raisins – Kishmish – 500gm	₹ 299	₹ 175
+328	Nutraj Roasted & Salted Pista – 100gm	₹ 199	₹ 125
+329	Nutrela Soya Chunks – 200gm	₹ 60	₹ 52
+330	Nutrela Soya Granules – 200gm	₹ 60	₹ 50
+331	Nutrela Soya Mini Chunks – 200gm	₹ 60	₹ 52
+332	Nutrivalue Moringa Oleifera Drum Stick Leaves Powder – 100gm	₹ 170	₹ 123
+333	Organic India Organic Cow Ghee – 500 ml	₹ 650	₹ 585
+334	Organic India Quinoa – 500gm	₹ 295	₹ 265
+335	Organic Tattva Arhar Tur Dal – 1 kg	₹ 270	₹ 135
+336	Organic Tattva Brown Sugar – 500gm	₹ 75	₹ 52
+337	Organic Tattva Groundnuts (Peanuts) – 500gm	₹ 145	₹ 95
+338	Organic Tattva Kabuli Chana – 500gm	₹ 145	₹ 95
+339	Organic Tattva Kala Chana – 500gm	₹ 85	₹ 56
+340	Organic Tattva Moong Dal Whole – 500gm	₹ 125	₹ 82
+341	Organic Tattva Moong Dal Yellow Split – 1 kg	₹ 270	₹ 178
+342	Organic Tattva Organic Wheat Flour – 5 kgs	₹ 320	₹ 210
+343	Organic Tattva Red Poha – 500gm	₹ 80	₹ 53
+344	Organic Tattva Sugar – 1 kg	₹ 140	₹ 93
+345	Organic Tattva Suji – 500gm	₹ 55	₹ 36
+346	Organic Tattva Urad Dal White Split – 500gm	₹ 145	₹ 97
+347	Organic Tattva Urad Dal Whole White – 500gm	₹ 145	₹ 95
+348	Paawak Jaggery Cubes Jar – 500gm	₹ 100	₹ 65
+349	Parsi Dairy Farm Buffalo Ghee Jar – 500 ml	₹ 520	₹ 450
+350	Parsi Dairy Farm Cow Ghee Jar – 500 ml	₹ 520	₹ 435
+351	Patanjali Kachi Ghani Mustard Oil – 1 Litre	₹ 195	₹ 184
+352	Patanjali Kachi Ghani Mustard Oil Pouch – 1 Litre	₹ 200	₹ 189
+353	Pillsbury Chakki Fresh Wheat Atta – 10 kgs	₹ 460	₹ 339
+354	Pillsbury Multi Grain Atta – 5 kgs	₹ 315	₹ 230
+355	Pitambari Ruchiyana Jaggery Powder – Chemical Free – 500gm	₹ 75	₹ 37
+356	Prabhat Dairy Cow Ghee Pouch – 1 Litre	₹ 590	₹ 465
+357	Premchand Gold Dhana Dal – 200gm	₹ 80	₹ 65
+358	Premia Ajma – 100gm	₹ 60	₹ 50
+359	Premia Ajma – 200gm	₹ 118	₹ 90
+360	Premia Akrod Magaj (Walnut Kernels) – 100gm	₹ 220	₹ 172
+361	Premia Alsi – 100gm	₹ 24	₹ 18
+362	Premia Amchur Powder – 100gm	₹ 40	₹ 32
+363	Premia Amsul Wet Kokam – 200gm	₹ 61	₹ 43
+364	Premia Badam (Almonds) – 500gm	₹ 491	₹ 393
+365	Premia Badishep – 200gm	₹ 86	₹ 67
+366	Premia Bedgi Chilli – 100gm	₹ 83	₹ 64
+367	Premia Big Sakariya – 200gm	₹ 17	₹ 13
+368	Premia Black Dried Dates (Kharik) – 200gm	₹ 81	₹ 63
+369	Premia Black Pepper – 100gm	₹ 113	₹ 93
+370	Premia Black Pepper Powder – 100gm	₹ 112	₹ 85
+371	Premia Cashew Broken – 500gm	₹ 527	₹ 407
+372	Premia Cassia Taj – 100gm	₹ 114	₹ 86
+373	Premia Chana Small – 1 kg	₹ 92	₹ 79
+374	Premia Chilli Guntur Stemless – 100gm	₹ 73	₹ 53
+375	Premia Chilli Kashmiri – 100gm	₹ 97	₹ 79
+376	Premia Coconut Powder – 200gm	₹ 73	₹ 57
+377	Premia Cow Ghee Pouch – 1 Litre	₹ 575	₹ 535
+378	Premia Dagad Phool (Black Stone Flower) – 50gm	₹ 72	₹ 53
+379	Premia Dhania Jeera Mix Khandela – 200gm	₹ 59	₹ 43
+380	Premia Dhania Powder – 200gm	₹ 46	₹ 35
+381	Premia Dhania Powder Deluxe – 500gm	₹ 107	₹ 80
+382	Premia Dhaniya – 400gm	₹ 152	₹ 108
+383	Premia Dhaniya Dal – 100gm	₹ 55	₹ 42
+384	Premia Dinkh (Edible Gum) – 100gm	₹ 32	₹ 24
+385	Premia Dry Apricot – 200gm	₹ 310	₹ 185
+386	Premia Dry Coconut – 500gm	₹ 217	₹ 178
+387	Premia Dry Ginger (Sunth) – 100gm	₹ 58	₹ 46
+388	Premia Eating Soda – 200gm	₹ 25	₹ 18
+389	Premia Emli – 500gm	₹ 118	₹ 94
+390	Premia Extra Strong Hing Powder – 100gm	₹ 160	₹ 89
+391	Premia Garam Masala Powder Deluxe – 100gm	₹ 56	₹ 51
+392	Premia Ginger Powder – 100gm	₹ 33	₹ 30
+393	Premia Grated Dry Coconut – 200gm	₹ 72	₹ 60
+394	Premia Green Elaichi – 25gm	₹ 43	₹ 39
+395	Premia Green Elaichi – 50gm	₹ 130	₹ 118
+396	Premia Green Elaichi Economy – 10gm	₹ 18	₹ 15
+397	Premia Groundnut – 500gm	₹ 98	₹ 84
+398	Premia Guntur Chilli – 100gm	₹ 57	₹ 44
+399	Premia Haldi Powder Deluxe – 200gm	₹ 39	₹ 30
+400	Premia Halim – 100gm	₹ 20	₹ 16
+401	Premia Jaifal – 4 Pieces	₹ 65	₹ 50
+402	Premia Jaipatri (Mace) – 20gm	₹ 136	₹ 104
+403	Premia Jardalu – 100gm	₹ 78	₹ 61
+404	Premia Jeera – 200gm	₹ 94	₹ 72
+405	Premia Jeera Powder Deluxe – 100gm	₹ 40	₹ 30
+406	Premia Kaju – 500gm	₹ 560	₹ 437
+407	Premia Kaju Special (Cashews) – 240 – 500gm	₹ 642	₹ 496
+408	Premia Kaju Tukda (Cashews) – 200gm	₹ 248	₹ 189
+409	Premia Kalvanji – 100gm	₹ 34	₹ 26
+410	Premia Kashmiri Chilli Powder – 1 kg	₹ 459	₹ 371
+411	Premia Kashmiri Chilli Powder Deluxe – 500gm	₹ 241	₹ 209
+412	Premia Kasoori Methi – 100gm	₹ 51	₹ 40
+413	Premia Khas Khas – 50gm	₹ 163	₹ 122
+414	Premia Kismis Black (Raisins) – 200gm	₹ 113	₹ 85
+415	Premia Kismis Black Seedless – 100gm	₹ 47	₹ 34
+416	Premia Kismis Indian (Raisins) – 500gm	₹ 201	₹ 145
+417	Premia Kismis Selected (Raisins) – 200gm	₹ 148	₹ 100
+418	Premia Kokam Rind Lonavala – 100gm	₹ 62	₹ 48
+419	Premia Lawang – 20gm	₹ 38	₹ 31
+420	Premia Lukhnowi Badishep – 100gm	₹ 43	₹ 33
+421	Premia Malwani Masala Deluxe – 200gm	₹ 83	₹ 69
+422	Premia Mamra Badam – 200gm	₹ 634	₹ 488
+423	Premia Masala Elaichi – 100gm	₹ 202	₹ 151
+424	Premia Methi – 100gm	₹ 17	₹ 15
+425	Premia Mini Soya Chunks – 200gm	₹ 46	₹ 39
+426	Premia Mixed Dry Fruits – 500gm	₹ 309	₹ 240
+427	Premia Nimbu Phool (Citric Acid) – 50gm	₹ 43	₹ 32
+428	Premia Pickle Masala – 200gm	₹ 122	₹ 50
+429	Premia Pista Plain (Pistachios) – 100gm	₹ 281	₹ 216
+430	Premia Pista Salty (Pistachio) – 200gm	₹ 311	₹ 217
+431	Premia Poha Basmati – 500gm	₹ 50	₹ 42
+432	Premia Poha Jada – 1 kg	₹ 59	₹ 48
+433	Premia Poha Patla – 500gm	₹ 33	₹ 26
+434	Premia Premium Kaju (Cashews) – 210 – 200gm	₹ 330	₹ 217
+435	Premia Rai – 200gm	₹ 42	₹ 31
+436	Premia Rai Red – 200gm	₹ 30	₹ 23
+437	Premia Rai Red – 500gm	₹ 71	₹ 55
+438	Premia Rai Small – 200gm	₹ 30	₹ 24
+439	Premia Red Chilli Powder – 200gm	₹ 44	₹ 40
+440	Premia Red Dried Dates (Kharik) – 500gm	₹ 229	₹ 165
+441	Premia Red Poha – 500gm	₹ 34	₹ 29
+442	Premia Refined Rice Bran Oil – 1 Litre	₹ 190	₹ 159
+443	Premia Regular Kaju (Cashews) – 320 – 500gm	₹ 595	₹ 460
+444	Premia Reshampatti Chilli Khandela – 500gm	₹ 150	₹ 130
+445	Premia Rice Atta – 1 kg	₹ 51	₹ 40
+446	Premia Roasted Badishep – 100gm	₹ 32	₹ 25
+447	Premia Sabja – 100gm	₹ 56	₹ 39
+448	Premia Sabudana – 1 kg	₹ 75	₹ 62
+449	Premia Sabudana Small – 500gm	₹ 43	₹ 33
+450	Premia Sakariya – 200gm	₹ 20	₹ 16
+451	Premia Shaha Jeera – 50gm	₹ 45	₹ 35
+452	Premia Soyawadi – 200gm	₹ 48	₹ 29
+453	Premia Star Anise (Badiyan) – 100gm	₹ 182	₹ 136
+454	Premia Sugar – 5 kgs	₹ 267	₹ 215
+455	Premia Sugar Candy – 200gm	₹ 26	₹ 21
+456	Premia Sugar Crystals (Khadi Shakkar) – 200gm	₹ 20	₹ 16
+457	Premia Sunday Mix Masala – 200gm	₹ 77	₹ 66
+458	Premia Tej Patta – 50gm	₹ 19	₹ 15
+459	Premia Til Black – 100gm	₹ 36	₹ 28
+460	Premia Til White – 500gm	₹ 130	₹ 100
+461	Premia Yellow Hing Powder – 100gm	₹ 90	₹ 49
+462	Premium Jaggery – 900gm	₹ 80	₹ 55
+463	Puro Healthy Salt – 1 kg	₹ 110	₹ 87
+464	Rajma Kashmiri Red – 500gm	₹ 86	₹ 71
+465	Rajma Red Small – 500gm	₹ 1	₹ 53
+466	Rajma White – 500gm	₹ 114	₹ 95
+467	Ramdev Chilli Powder – 200gm	₹ 110	₹ 94
+468	Ramdev Coriander Powder – 200gm	₹ 75	₹ 61
+469	Ramdev Strong Hing – 100gm	₹ 370	₹ 280
+470	Ramdev Turmeric Powder – 200gm	₹ 70	₹ 60
+471	Ranguni Wal – 500gm	₹ 68	₹ 58
+472	Rasmalai Premium Desi Jaggery Pieces – 800gm	₹ 90	₹ 79
+473	Rasoi Magic No Onion No Garlic Mutter Paneer Mix – 45gm	₹ 53	₹ 39
+474	Rasoi Magic No Onion No Garlic Veg Kolhapuri Spice Mix – 45gm	₹ 53	₹ 39
+475	Rasoi Magic Paneer Makhanwala Masala – 45gm	₹ 50	₹ 32
+476	Rasoi Magic Paneer Tikka Masala Spice Mix – 45gm	₹ 45	₹ 35
+477	Rava – 1 kg	₹ 47	₹ 38
+478	Red Rice – 1 kg	₹ 62	₹ 51
+479	Rice Atta – 500gm	₹ 27	₹ 21
+480	Rice Basmati Tukda – 5 kgs	₹ 490	₹ 290
+481	Rice Basmati Wand – 5 kgs	₹ 840	₹ 447
+482	Rice Pulav Basmati – 5 kgs	₹ 500	₹ 340
+483	Rice Tibar Basmati – 5 kgs	₹ 670	₹ 375
+484	Rice Wada Kolam Sorted Rice – 5 kgs	₹ 500	₹ 323
+485	Ricela Refined Rice Bran Oil – 5 Litres	₹ 1115	₹ 915
+486	Riso Ricebran Oil – 1 Litre	₹ 225	₹ 179
+487	Rock Salt – 1 kg	₹ 99	₹ 49
+488	Royal Delight Finest Ajwa Dates – 250gm	₹ 549	₹ 390
+489	Royal Delight Finest Mabroom Dates – 250gm	₹ 425	₹ 282
+490	Royal Delight Finest Oman Dates – 400gm	₹ 249	₹ 195
+491	Royal Delight Finest Safavi Dates – 250gm	₹ 349	₹ 235
+492	RRO Mastdil Premium Mustard Oil Bottle – 1 Litre	₹ 265	₹ 211
+493	RRO Premium Mustard Oil – 5 Litres	₹ 1365	₹ 1015
+494	RRO Primio Gold Filtered Groundnut Oil – 1 Litre	₹ 255	₹ 172
+495	RRO Primio Gold Filtered Groundnut Oil – 15 Litres	₹ 3500	₹ 2580
+496	RRO Primio Refined Groundnut Oil – 15 Litres	₹ 3750	₹ 2730
+497	RRO Primio Refined Groundnut Oil – 5 Litres	₹ 1250	₹ 1059
+498	RRO Til Dil Premium Til Oil Bottle – 1 Litre	₹ 360	₹ 286
+499	Ruchi Gold Refined Palmolein Oil – 1 Litre	₹ 178	₹ 158
+500	Saffola Active Oil – 1 Litre	₹ 225	₹ 189
+501	Saffola Active Oil – 15 Litres	₹ 3400	₹ 3130
+502	Saffola Gold Oil – 15 Litres	₹ 3500	₹ 3325
+503	Saffola Gold Oil – 5 Litres	₹ 1330	₹ 1260
+504	Saffola Total Oil – 5 Litres	₹ 1370	₹ 1235
+505	Sagar Pure Ghee Pouch – 1 Litre	₹ 505	₹ 470
+506	Sagar Pure Ghee Tin – 5 Litres	₹ 2550	₹ 2373
+507	Satyam Ajma – 100gm	₹ 107	₹ 98
+508	Satyam Badishop – 100gm	₹ 56	₹ 48
+509	Satyam Barley – 100gm	₹ 14	₹ 10
+510	Satyam Bedgi Chilly – 100gm	₹ 105	₹ 84
+511	Satyam Besan – 500gm	₹ 63	₹ 57
+512	Satyam Bore Chilly – 100gm	₹ 160	₹ 109
+513	Satyam Chana Dal – 500gm	₹ 77	₹ 70
+514	Satyam Chana Green – 500gm	₹ 159	₹ 135
+515	Satyam Chana Mosambi – 500gm	₹ 90	₹ 78
+516	Satyam Chana Small – 500gm	₹ 70	₹ 65
+517	Satyam Chia Seeds – 100gm	₹ 79	₹ 64
+518	Satyam Chowla – 500gm	₹ 126	₹ 110
+519	Satyam Dalia – 200gm	₹ 45	₹ 41
+520	Satyam Dhania – 200gm	₹ 108	₹ 90
+521	Satyam Elaichi – 50gm	₹ 200	₹ 176
+522	Satyam Elaichi Big – 50gm	₹ 152	₹ 113
+523	Satyam Garam Masala Whole – 100gm	₹ 141	₹ 130
+524	Satyam Jaggery – 500gm	₹ 55	₹ 50
+525	Satyam Jeera – 200gm	₹ 142	₹ 103
+526	Satyam Kabuli Chana – 500gm	₹ 116	₹ 104
+527	Satyam Kashmiri Chilly – 100gm	₹ 121	₹ 90
+528	Satyam Khobra (Coconut) – 200gm	₹ 108	₹ 99
+529	Satyam Lapsi Medium – 500gm	₹ 37	₹ 33
+530	Satyam Lavang – 50gm	₹ 109	₹ 90
+531	Satyam Maida – 500gm	₹ 33	₹ 27
+532	Satyam Makhana – 50gm	₹ 105	₹ 92
+533	Satyam Masoor Whole – 500gm	₹ 96	₹ 86
+534	Satyam Masur Dal – 500gm	₹ 93	₹ 86
+535	Satyam Math (Matki) – 500gm	₹ 129	₹ 114
+536	Satyam Methi – 100gm	₹ 25	₹ 23
+537	Satyam Miri (Black Pepper) – 100gm	₹ 160	₹ 114
+538	Satyam Moong Chilti – 500gm	₹ 100	₹ 99
+539	Satyam Moong Dal – 500gm	₹ 109	₹ 100
+540	Satyam Moong Whole – 500gm	₹ 109	₹ 97
+541	Satyam Pandi Chilli – 100gm	₹ 71	₹ 61
+542	Satyam Poha (Powa) Patla – 500gm	₹ 40	₹ 34
+543	Satyam Poha Jada – 500gm	₹ 38	₹ 29
+544	Satyam Pumpkin Seeds – 100gm	₹ 104	₹ 95
+545	Satyam Pumpkin Seeds Salted – 100gm	₹ 121	₹ 111
+546	Satyam Quinoa – 100gm	₹ 74	₹ 60
+547	Satyam Rai – 200gm	₹ 54	₹ 40
+548	Satyam Rajgira Flour – 500gm	₹ 96	₹ 80
+549	Satyam Rajma Pink – 500gm	₹ 142	₹ 132
+550	Satyam Rajma Sharmili – 500gm	₹ 129	₹ 116
+551	Satyam Rava – 500gm	₹ 35	₹ 28
+552	Satyam Rice Atta (Flour) – 500gm	₹ 33	₹ 30
+553	Satyam Sabja – 100gm	₹ 66	₹ 49
+554	Satyam Sabudana – 500gm	₹ 47	₹ 42
+555	Satyam Safed (White) Vatana – 500gm	₹ 109	₹ 95
+556	Satyam Sama – 500gm	₹ 100	₹ 80
+557	Satyam Sindhav Powder – 100gm	₹ 14	₹ 10
+558	Satyam Singdana (Groundnut) – 500gm	₹ 106	₹ 95
+559	Satyam Sunflower Seeds – 100gm	₹ 62	₹ 57
+560	Satyam Taj (Cassia Bark) – 50gm	₹ 38	₹ 32
+561	Satyam Tamarind – 500gm	₹ 170	₹ 153
+562	Satyam Toor Dal Oily – 500gm	₹ 109	₹ 100
+563	Satyam Tur (Toor) Dal – 500gm	₹ 109	₹ 98
+564	Satyam Udid (Urad) Dal – 500gm	₹ 123	₹ 114
+565	Satyam Udid (Urad) Whole – 500gm	₹ 106	₹ 90
+566	Satyam Vatana Black – 500gm	₹ 70	₹ 65
+567	Satyam Vatana Green – 500gm	₹ 142	₹ 120
+568	Satyam Wal – 500gm	₹ 142	₹ 133
+569	Satyam Wal Kadwa – 500gm	₹ 234	₹ 198
+570	Satyam Watermelon Seed – 200gm	₹ 130	₹ 85
+571	Shan Achar Gosht Masala – 50gm	₹ 75	₹ 65
+572	Shan Chicken Tikka Masala – 50gm	₹ 75	₹ 65
+573	Shan Nihari Masala – 60gm	₹ 75	₹ 65
+574	Smith & Jones Ginger Garlic Paste – 200gm	₹ 50	₹ 40
+575	Snapin Cardamom Powder Spice – 40gm	₹ 379	₹ 275
+576	Snapin Cheesy Garlic Bread Mix – 45gm	₹ 99	₹ 79
+577	Snapin Chilli Flakes Spice – 35gm	₹ 65	₹ 52
+578	Snapin Cinnamon Powder Spice – 40gm	₹ 99	₹ 79
+579	Snapin Ginger Garlic Mix Seasoning – 35gm	₹ 99	₹ 75
+580	Snapin Mixed Herbs – 20gm	₹ 99	₹ 81
+581	Snapin Oregano Herb – 20gm	₹ 79	₹ 63
+582	Snapin Pasta Mix Seasoning – 25gm	₹ 99	₹ 75
+583	Snapin Piri Piri Mix – 50gm	₹ 99	₹ 89
+584	Snapin Pizza Mix Seasoning – 45gm	₹ 99	₹ 81
+585	Sugarlite Sugar – 500gm	₹ 99	₹ 49
+586	Suhana Butter Chicken Mix – 50gm	₹ 40	₹ 29
+587	Suhana Chicken Biryani Mix – 50gm	₹ 40	₹ 29
+588	Suhana Chicken Gravy Mix – 80gm	₹ 45	₹ 32
+589	Suhana Chicken Tandoori Mix Masala – 100gm	₹ 50	₹ 35
+590	Suhana Kesari Milk Masala – 20gm	₹ 75	₹ 55
+591	Suhana Mutter Paneer Mix Masala – 50gm	₹ 40	₹ 28
+592	Suhana Mutton Gravy Mix – 80gm	₹ 45	₹ 35
+593	Suhana Paneer Butter Masala Mix – 50gm	₹ 40	₹ 29
+594	Suhana Paneer Makhanwala Mix Masala – 50gm	₹ 40	₹ 29
+595	Suhana Paneer Tikka Mix Masala – 50gm	₹ 40	₹ 29
+596	Suhana Veg Kolhapuri Mix – 80gm	₹ 45	₹ 33
+597	Sunday Refined Sunflower Oil Jar With Tap – 15 Litres	₹ 3875	₹ 2955
+598	Sundrop Superlite Advanced Sunflower Oil – 1 Litre	₹ 245	₹ 228
+599	Sunny Sun Lite Refined Sunflower Oil – 1 Litre	₹ 297	₹ 195
+600	Sunny Sun Lite Refined Sunflower Oil Jar – 15 Litres	₹ 3915	₹ 2949
+601	Sunrich Refined Sunflower Oil – 1 Litre	₹ 225	₹ 190
+602	Swaad Refined Sunflower Oil – 1 Litre	₹ 210	₹ 190
+603	Sweekar Refined Sunflower Oil Jar – 15 Litres	₹ 3600	₹ 3109
+604	Tamarind – 500gm	₹ 110	₹ 85
+605	Taste For Life MP Sihore Chapati Fine Wheat Atta – 5 kgs	₹ 425	₹ 395
+606	Taste For Life Premium Khapli Wheat Atta – 1 kg	₹ 155	₹ 144
+607	Tata I – Shakti Cooking Soda – 100gm	₹ 20	₹ 18
+608	Tata Rock Salt Powder Pouch – 500gm	₹ 65	₹ 48
+609	Tata Salt – Evaporated Iodised – 1 kg	₹ 25	₹ 22
+610	Tata Salt Lite – Low Sodium Iodised – 1 kg	₹ 45	₹ 35
+611	Tata Sampan 100% Organic Unpolished Masoor Dal – 500gm	₹ 105	₹ 94
+612	Tata Sampann 100% Organic Unpolished Chana Dal – 1 kg	₹ 190	₹ 171
+613	Tata Sampann 100% Organic Unpolished Moong Dal – 1 kg	₹ 275	₹ 246
+614	Tata Sampann 100% Organic Unpolished Toor Dal – 1 kg	₹ 260	₹ 234
+615	Tata Sampann Chana Dal – 500gm	₹ 64	₹ 48
+616	Tata Sampann Fine Besan – 1 kg	₹ 125	₹ 105
+617	Tata Sampann Masoor Dal – 1 kg	₹ 165	₹ 148
+618	Tata Sampann Moong Chilka – 500gm	₹ 84	₹ 63
+619	Tata Sampann Moong Dal – 1 kg	₹ 175	₹ 131
+620	Tata Sampann Organic Unpolished Kabuli Chana – 500gm	₹ 147	₹ 132
+621	Tata Sampann Organic Unpolished Urad Dal – 500gm	₹ 142	₹ 120
+622	Tata Sampann Poha – 500gm	₹ 44	₹ 31
+623	Tata Sampann Toor Dal – 1 kg	₹ 174	₹ 130
+624	Tata Sampann Turmeric Powder – 200gm	₹ 72	₹ 61
+625	Tata Sampann Urad Dal – 500gm	₹ 90	₹ 76
+626	Tata SuperLite Salt – 1 kg	₹ 60	₹ 49
+627	Tez Mustard Kachchi Ghani Oil Bottle – 1 Litre	₹ 235	₹ 202
+628	Tez Mustard Kachchi Ghani Oil Pouch – 1 Litre	₹ 231	₹ 199
+629	Tilsona Til Oil Bottle – 1 Litre	₹ 365	₹ 315
+630	Toor Dal Oily – 5 kgs	₹ 750	₹ 560
+631	Toor Dal Plain – 5 kgs	₹ 750	₹ 525
+632	Tur Dal Latur – 1 kg	₹ 141	₹ 119
+633	Tur Dal Premium Gujarat – 1 kg	₹ 172	₹ 137
+634	Udid (Urad) Black Whole – 500gm	₹ 71	₹ 59
+635	Udid (Urad) Dal – 1 kg	₹ 164	₹ 142
+636	Udid (Urad) Dal Chilti – 500gm	₹ 76	₹ 62
+637	Udid (Urad) Whole – 500gm	₹ 84	₹ 73
+638	Vandevi Hing 2001 Powder – 100gm	₹ 180	₹ 110
+639	Vandevi Hing 2001 Powder – 50gm	₹ 90	₹ 60
+640	Vandevi Hing Powder – 100gm	₹ 152	₹ 76
+641	Vardhan Agro Jaggery Powder – 1 kg	₹ 80	₹ 54
+642	Vatana Black – 500gm	₹ 51	₹ 43
+643	Vatana Green – 500gm	₹ 79	₹ 72
+644	Vatana White – 500gm	₹ 64	₹ 59
+645	Wal – 500gm	₹ 99	₹ 80
+646	Wal Papdi – 500gm	₹ 87	₹ 77
+647	Weikfield Baking Powder – 50gm	₹ 25	₹ 20
+648	Weikfield Corn Flour – 100gm	₹ 29	₹ 25
+649	Wheat Flour Chakki Atta – 5 kgs	₹ 225	₹ 154
+650	Wheat Lokwan (Lokvan) – 10 kgs	₹ 400	₹ 329
+651	24 Mantra Organic Flax Seeds – 200gm	₹ 75	₹ 62
+652	24 Mantra Organic Green Moong Whole – 500gm	₹ 125	₹ 83
+653	24 Mantra Organic Jaggery Powder – 500gm	₹ 80	₹ 55
+654	24 Mantra Organic Jowar Flour – 500gm	₹ 70	₹ 65
+655	24 Mantra Organic Kabuli Chana – 500gm	₹ 145	₹ 97
+656	24 Mantra Organic Moong Dal – 500gm	₹ 135	₹ 90
+657	24 Mantra Organic Peanut – 500gm	₹ 135	₹ 90
+658	24 Mantra Organic Poha – 500gm	₹ 68	₹ 45
+659	24 Mantra Organic Ragi Flour – 500gm	₹ 65	₹ 43
+660	24 Mantra Organic Red Poha – 500gm	₹ 75	₹ 37
+661	24 Mantra Organic Sonamasuri Brown Rice – 1 kg	₹ 95	₹ 88
+662	24 Mantra Organic Sugar – 1 kg	₹ 145	₹ 125
+663	24 Mantra Organic Tur dal – 1 kg	₹ 260	₹ 204
